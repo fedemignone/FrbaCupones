@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FrbaOfertas.model
+namespace FrbaOfertas.model.Repos
 {
-    enum UserType
+    class UserRepo
     {
-        Admin,
-        Client,
-        Provider
     }
 }

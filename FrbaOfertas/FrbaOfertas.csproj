@@ -65,9 +65,12 @@
   <ItemGroup>
     <Compile Include="Controller.cs" />
     <Compile Include="Model.cs" />
-    <Compile Include="model\UserTypeAdmin.cs" />
-    <Compile Include="model\UserTypeClient.cs" />
-    <Compile Include="model\UserTypeProvider.cs" />
+    <Compile Include="model\Admin.cs" />
+    <Compile Include="model\Client.cs" />
+    <Compile Include="model\Provider.cs" />
+    <Compile Include="model\Repos\ClientRepo.cs" />
+    <Compile Include="model\Repos\ProviderRepo.cs" />
+    <Compile Include="model\Repos\UserRepo.cs" />
     <Compile Include="model\User.cs" />
     <Compile Include="model\UserType.cs" />
     <Compile Include="Views\LoginView.cs">

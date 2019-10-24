@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace FrbaOfertas.model
 {
-    class UserTypeProvider : UserType
+    class Provider
     {
-
-        //generar oferta
     }
 }

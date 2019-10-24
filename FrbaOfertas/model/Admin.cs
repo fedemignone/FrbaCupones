@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FrbaOfertas.model
 {
-    class UserTypeClient : UserType
+    class Admin
     {
     }
 }

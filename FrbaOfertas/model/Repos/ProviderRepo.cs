@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FrbaOfertas.model
+namespace FrbaOfertas.model.Repos
 {
-    class UserTypeAdmin : UserType
+    class ProviderRepo
     {
     }
 }
